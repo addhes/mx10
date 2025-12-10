@@ -12,5 +12,6 @@ how use api
 
 1. register
 2. login
-3. get all users
-4. delete user
+3. token bearer, untuk memakainya , tambahkan authorization , type auth (bearer), paste tokennya sebelah kanan
+3. create jobs (pemberi kerja) pakai token
+4. getjobs (pemberi kerja) pakai token
